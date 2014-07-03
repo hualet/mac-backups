@@ -34,7 +34,6 @@ set shiftwidth=4
 set expandtab
 " Enable line numbers
 set number
-set list
 " Highlight searches
 set hlsearch
 " Ignore case of searches
