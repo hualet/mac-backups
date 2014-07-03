@@ -30,6 +30,8 @@ set secure
 syntax on
 " Make tabs as wide as four spaces
 set tabstop=4
+set shiftwidth=4
+set expandtab
 " Enable line numbers
 set number
 set list
